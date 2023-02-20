@@ -1,2 +1,2 @@
 # CUDA_ON_ARM
-Tutorials and Practices on CUDA C Programming given by NVIDIA Developer Community.
+Tutorials and Practice on CUDA C Programming given by NVIDIA Developer Community.
