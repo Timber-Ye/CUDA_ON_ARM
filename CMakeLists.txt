@@ -22,3 +22,5 @@ add_subdirectory(stream_and_libraries)
 add_subdirectory(atomic)
 
 add_subdirectory(exam)
+
+add_subdirectory(expand)
